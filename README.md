@@ -37,7 +37,7 @@ https://dorsa-piraneh.github.io/TodoList/
 
 ### Option 2: Clone with Git
 ```bash
-git clone https://github.com/dorsa-piraneh/git-test.git
+git clone https://github.com/dorsa-piraneh/TodoList.git
 ```
 Then open `index.html` in your browser.
 
@@ -56,4 +56,5 @@ Then open `index.html` in your browser.
 **Dorsa Piraneh**  
 Frontend Developer (Entry-Level)  
 GitHub: https://github.com/dorsa-piraneh
+
 
