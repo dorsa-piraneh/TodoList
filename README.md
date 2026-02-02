@@ -1,7 +1,7 @@
 # TodoList
 
-A modern **Todo List** application built with **HTML, CSS, and JavaScript**.  
-This project helps users manage their daily tasks with a clean UI and useful features.
+A simple and modern **Todo List** application that helps users organize daily tasks, track progress, and manage todos efficiently using a clean and responsive interface.
+
 
 ## Live Demo
 
@@ -41,20 +41,52 @@ git clone https://github.com/dorsa-piraneh/TodoList.git
 ```
 Then open `index.html` in your browser.
 
+## Project Structure
+
+```txt
+TodoList/
+│
+│    index.html
+│    README.md
+│
+├─── assets
+│   ├───fonts
+│   │   └───IRANSans/
+│   │
+│   ├───icons
+│   │   └───FontAwesome/
+│   │
+│   ├───images
+│   │       Screenshot.png
+│   │
+│   └───libs
+│       └───sweetalert2/
+│
+├─── css
+│       main.css
+│
+└─── js
+        main.js
+```
 
 ## Technologies Used
 
 - HTML5
 - CSS3 / CSS Variables
-- JavaScript (ES6)
+- JavaScript (ES6+)
 - SweetAlert2
 - FontAwesome Icons
 - LocalStorage API
 
+
+## Future Improvements
+
+- **Add drag & drop functionality for tasks** : Allow users to reorder tasks easily by dragging them.  
+- **Clear All / Delete All Completed** : Provide a button to remove all tasks or only completed tasks at once.  
+- **Task Priority** : Enable users to mark tasks as High, Medium, or Low priority for better organization.
+
+
 ## Author
 
 **Dorsa Piraneh**  
-Frontend Developer (Entry-Level)  
 GitHub: https://github.com/dorsa-piraneh
-
-
