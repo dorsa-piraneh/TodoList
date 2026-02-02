@@ -6,8 +6,7 @@ This project helps users manage their daily tasks with a clean UI and useful fea
 ## Live Demo
 
 🔗 **View Online:**  
-https://dorsa-piraneh.github.io/git-test/
-
+https://dorsa-piraneh.github.io/TodoList/
 
 ## Screenshots
 
@@ -57,3 +56,4 @@ Then open `index.html` in your browser.
 **Dorsa Piraneh**  
 Frontend Developer (Entry-Level)  
 GitHub: https://github.com/dorsa-piraneh
+
